@@ -1,0 +1,15 @@
+/* See Kerala Plugin Custom Styles */
+
+.see-kerala-app {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9fafb;
+}
+
+#resultsCard {
+    border: 1px solid #e5e7eb;
+}
+
+button:hover {
+    transform: scale(1.02);
+    transition: transform 0.2s ease;
+}
